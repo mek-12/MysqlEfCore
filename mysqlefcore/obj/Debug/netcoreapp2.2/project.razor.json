@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/media/muhammed/Storage/Projects/Console/Test/MysqlEfCore/mysqlefcore/mysqlefcore.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

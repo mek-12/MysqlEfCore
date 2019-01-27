@@ -1,0 +1,11 @@
+/media/muhammed/Storage/Projects/Console/Test/MysqlEfCore/mysqlefcore/bin/Debug/netcoreapp2.2/mysqlefcore.deps.json
+/media/muhammed/Storage/Projects/Console/Test/MysqlEfCore/mysqlefcore/bin/Debug/netcoreapp2.2/mysqlefcore.runtimeconfig.json
+/media/muhammed/Storage/Projects/Console/Test/MysqlEfCore/mysqlefcore/bin/Debug/netcoreapp2.2/mysqlefcore.runtimeconfig.dev.json
+/media/muhammed/Storage/Projects/Console/Test/MysqlEfCore/mysqlefcore/bin/Debug/netcoreapp2.2/mysqlefcore.dll
+/media/muhammed/Storage/Projects/Console/Test/MysqlEfCore/mysqlefcore/bin/Debug/netcoreapp2.2/mysqlefcore.pdb
+/media/muhammed/Storage/Projects/Console/Test/MysqlEfCore/mysqlefcore/obj/Debug/netcoreapp2.2/mysqlefcore.csprojAssemblyReference.cache
+/media/muhammed/Storage/Projects/Console/Test/MysqlEfCore/mysqlefcore/obj/Debug/netcoreapp2.2/mysqlefcore.csproj.CoreCompileInputs.cache
+/media/muhammed/Storage/Projects/Console/Test/MysqlEfCore/mysqlefcore/obj/Debug/netcoreapp2.2/mysqlefcore.AssemblyInfoInputs.cache
+/media/muhammed/Storage/Projects/Console/Test/MysqlEfCore/mysqlefcore/obj/Debug/netcoreapp2.2/mysqlefcore.AssemblyInfo.cs
+/media/muhammed/Storage/Projects/Console/Test/MysqlEfCore/mysqlefcore/obj/Debug/netcoreapp2.2/mysqlefcore.dll
+/media/muhammed/Storage/Projects/Console/Test/MysqlEfCore/mysqlefcore/obj/Debug/netcoreapp2.2/mysqlefcore.pdb
